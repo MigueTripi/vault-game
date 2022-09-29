@@ -3,3 +3,7 @@ cache
 artifacts
 notes.lua
 .env
+
+out/
+lib/
+cache/
